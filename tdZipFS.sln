@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tdZipFS", "tdZipFS.vcxproj", "{B6335327-61A6-4D4B-B01E-B9FF45F1426C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Debug|x64.ActiveCfg = Debug|x64
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Debug|x64.Build.0 = Debug|x64
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Debug|x86.Build.0 = Debug|Win32
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Release|x64.ActiveCfg = Release|x64
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Release|x64.Build.0 = Release|x64
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Release|x86.ActiveCfg = Release|Win32
+		{B6335327-61A6-4D4B-B01E-B9FF45F1426C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9388819C-4175-435E-81A9-5E45DA495EA0}
+	EndGlobalSection
+EndGlobal

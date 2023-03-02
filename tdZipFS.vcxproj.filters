@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="src\Common">
+      <UniqueIdentifier>{a17157b4-5faf-46c5-9b03-11301ef8e723}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Common\tdFile.hpp">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Common\tdMemLite.hpp">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Common\tdZip.h">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="src\FileTree.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ZipСache.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Common\tdSync.hpp">
+      <Filter>src\Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Common\tdZip.cpp">
+      <Filter>src\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ZipFS.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FileTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ZipСache.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
